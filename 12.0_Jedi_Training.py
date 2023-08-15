@@ -1,5 +1,5 @@
 '''
-Sign your name:________________
+# 12.0 Jedi Training  Name:________________
  
 Update the code in this chapter to do the following:
 Open a 500px by 500px window.
