@@ -2,9 +2,3 @@
 
 In this chapter you will be learning about how to let a user interact with your program and create sound effects. 
 
-
-<h3>Jedi Tasks</h3>
-<ol>
-  <li>Jedi Training</li>
-  <li>User Control Project</li>
-  </ol>
